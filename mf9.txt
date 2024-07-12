@@ -1,0 +1,78 @@
+<html>
+	<head> 
+		<title>  E-Store| India's No.1 Online Shopping Site </title>
+<bgsound src="2.mp3" loop="-1"/>
+		<link rel="stylesheet" href="css/styles.css">
+<link rel="stylesheet" href="css/css1.css">
+		
+	</head>
+	<body id=back>
+<div>
+<div id="horz1">
+<marquee><h1>Universal Online Shopping</h1></marquee>
+</div>
+<div id="horz2">
+
+<h5></h5>
+</div>
+<div id="horz3">
+<table cellspacing="20">
+			<tr>
+				<td id="h1c2"><a style="text-decoration:none;color:white;font-style:bold;"href="home.html">Home</td>
+				<td id="h1c3"><a
+style="text-decoration:none;color:white;font-style:bold;" href="Men.html">Men's</td>
+
+				<td id="h1c4"><a style="text-decoration:none;color:white;font-style:bold;" href="women.html">Women</td>
+				<td id="h1c5"><a style="text-decoration:none;color:white;font-style:bold;"href="kids.html">Kid's
+				<td id="h1c6"><a style="text-decoration:none;color:white;font-style:bold;"href="about.html">About Us</td>
+				<td id="h1c7"><a style="text-decoration:none;color:white;font-style:bold;" href="contact.html">Contact</td></tr>
+  			</table>
+
+
+</div>
+<div id="horz4">
+
+<div id= h4c1 class="grow pic">
+  <img src="images/men/mf9.jpg">
+</div>
+<div id= h4c2>
+  <p><h4>adidas  casual floatters</h4>
+<h5><font color=grey>3.8* Rating & 134 Reviews</font></h5>
+<b><font color=green>special price</font><br>
+<h2 style="display:inline;">30$</h2>&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<strike>40$ </strike>&nbsp&nbsp&nbsp&nbsp<font color=green>36% off</font></b><br>
+<h2>view details</h2><br>
+<table width="50%" height:10px style="border-collapse:collapse;border:1px solid black;">
+<tr style="border:1px solid black;">
+<td style="border:1px solid white;"><h1><center>Size</h1></center></td>
+<td style="border:1px solid black;"><h1><center>S</h1></center></td>
+<td style="border:1px solid black;"><h2><center>M</h2></center></td>
+<td style="border:1px solid black;"><h2><center>L</h2></center></td>
+</tr>
+</table>
+
+
+<h2>Highlights</h2>
+<ul>
+<li>colour:black</li>
+<li>outer material:canvas</li>
+<li>set of 1</li>
+
+</ul>
+</div>
+
+<div style="position:relative; left:0%;top:40%;">
+<table border=0 style="background-color:white;width:1000;height:300;">
+<caption><b><font size=10px>Similar Products</font></b></caption>
+<tr>
+<td><img src="images/men/mf1.jpg" height="200" width="200"></td>
+<td><img src="images/men/mf4.jpg" height="200" width="200"></td>
+<td><img src="images/men/mf3.jpg" height="200" width="200"></td>
+<td><img src="images/men/mf10.jpg" height="200" width="200"></td>
+<td><img src="images/men/mf6.jpg" height="200" width="200"></td>
+<td><img src="images/men/mf9.jpg" height="200" width="200"></td>
+</tr>
+</table>			
+</div>
+	</body>
+ 
+</html>
